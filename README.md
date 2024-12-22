@@ -1,0 +1,1 @@
+# 32_bit_processor-implementing-pipeline-technology
