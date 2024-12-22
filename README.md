@@ -1,4 +1,5 @@
 # 32_bit_processor-implementing-pipeline-technology
+
 # MIPS32 Pipeline Simulator
 
 This repository contains a Verilog-based implementation of a 5-stage pipelined MIPS32 processor. The processor supports various arithmetic, logical, and memory operations, along with branching and halting functionality. A testbench is included to verify the functionality of the design.
@@ -13,6 +14,7 @@ This repository contains a Verilog-based implementation of a 5-stage pipelined M
 - [Project Structure](#project-structure)
 - [Output Example](#output-example)
 - [License](#license)
+- [Author](#author)
 
 ## Introduction
 The MIPS32 Pipeline Simulator models a basic 5-stage pipelined processor, implementing the following stages:
@@ -114,4 +116,7 @@ This output corresponds to the execution of the provided instructions.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+Yashwanth R, Trainee at Ramaiah Skill Academy
 
